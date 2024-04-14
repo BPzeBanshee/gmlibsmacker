@@ -1,0 +1,3 @@
+[submodule "libsmacker"]
+	path = libsmacker
+	url = https://github.com/BPzeBanshee/libsmacker
